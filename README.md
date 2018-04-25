@@ -3,6 +3,7 @@
 Python program that performs:
 - packet sniffing
 - packet injection
+- packet manipulation
 - ARP spoofing
 - OS Fingerprinting (Passive and Active)
 - other passive or active attacks
