@@ -5,6 +5,7 @@ Python program that performs:
 - packet injection
 - ARP spoofing
 - OS Fingerprinting (Passive and Active)
+- other passive or active attacks
 - other MiTM attacks
 
 Software:
