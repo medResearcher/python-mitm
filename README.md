@@ -29,3 +29,5 @@ References:
 - https://null-byte.wonderhowto.com/how-to/build-man-middle-tool-with-scapy-and-python-0163525/
 - https://null-byte.wonderhowto.com/how-to/hack-like-pro-using-powerful-versatile-scapy-for-scanning-dosing-0159231/
 - https://yamakira.github.io/art-of-packet-crafting-with-scapy/network_recon/os_detection/index.html
+- http://www.secdev.org/conf/scapy_hack.lu.pdf
+- https://www.hackingloops.com/scapy/
